@@ -8,3 +8,6 @@ regex = "1.10.4"
 rayon = "1.10.0"
 clap = { version = "4.5.4", features = ["derive"] }
 ignore = "0.4.22"
+tempfile = "3.10.1"
+unescape = "0.1.0"
+atty = "0.2.14"
